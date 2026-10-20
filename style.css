@@ -1,0 +1,24 @@
+body {
+  background-color:#FFFF0; /* Warna biru candy */
+  font-family:Arial, sans-serif; */ Jenis huruf bersih dan mudah dibaca */
+  color: #191970; ?* Warna teks utama (Merah candy) */
+  }
+
+.kartu-profil {
+  witdth: 300px;
+  margin: 50px auto; /* 50px jarak atas/bawah/,auto menengah kiri/kanan */
+  padding: 20px;
+  background-color:white;
+  border-radius:15px; /* Membuat sudut jadi melengkung */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
+}
+|
+
+  .kartu-profil {
+  width: 150px;
+  border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
+.kartu-profil {
+  /* ... (kode dari slide sebelumnya) ... */
+  text-align: center; /* Menengah semua teks di dalam kartu */
+}
